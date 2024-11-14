@@ -1,1 +1,2 @@
-# Desafio-Aut-matos-Celulares
+# Desafio-frak-celulares
+Desenvolvendo um simulador em Haskell para autômatos celulares multidimensionais. Um autômato celular é uma coleção de "células" que evoluem em uma grade (ou matriz), seguindo regras locais que dependem dos estados das células vizinhas. O objetivo é criar um simulador que possa operar em diferentes dimensões e com regras configuráveis, permitindo a observação da evolução do sistema.
